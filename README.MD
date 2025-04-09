@@ -1,0 +1,1 @@
+This is the project I have built during my last Summer Internship using Data Analytics and basics of Machine Learning using Python and Streamlit for user Interface.
